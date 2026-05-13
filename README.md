@@ -84,18 +84,6 @@ Sistemas inteligentes para limpieza, clasificación y análisis de datos.
 ### 📈 Dashboards BI
 Visualización interactiva de indicadores institucionales.
 
----
-
-## 📊 Estadísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=G3NIUS-FRM&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3NIUS-FRM&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img src="https://streak-stats.demolab.com?user=G3NIUS-FRM&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
 
 ---
 
