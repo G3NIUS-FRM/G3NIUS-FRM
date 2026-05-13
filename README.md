@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola 👋 Soy Juan
 
-<!--
-**G3NIUS-FRM/G3NIUS-FRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst | Python | AI | BI
 
-Here are some ideas to get you started:
+## Tecnologías
+![Python](https://img.shields.io/badge/Python-blue)
+![Polars](https://img.shields.io/badge/Polars-purple)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- 📊 Dashboard de presupuesto TIC RD
+- 🤖 Agentes de limpieza de datos
+- 📈 Modelos predictivos
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true)
