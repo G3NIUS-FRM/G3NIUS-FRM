@@ -1,4 +1,4 @@
-# Hola 👋 Soy Juan
+# Hola 👋 Soy Adrian Ramirez
 
 💻 Data Analyst | Python | AI | BI
 
@@ -13,4 +13,4 @@
 - 📈 Modelos predictivos
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G3NIUS-FRM&show_icons=true)
