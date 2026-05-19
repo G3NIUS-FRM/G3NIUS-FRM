@@ -75,26 +75,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=G3NIUS-FRM&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" 
-    height="180em"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3NIUS-FRM&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" 
-    height="180em"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=G3NIUS-FRM&theme=transparent&hide_border=true" 
-  />
-</p>
----
 
 ## 🎯 Current Focus
 
